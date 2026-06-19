@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project simulates an **enterprise-scale workforce analytics pipeline** using official datasets from the U.S. Bureau of Labor Statistics (BLS).  
-It demonstrates skills in **data engineering, data science, and business intelligence**, aligned with real-world practices at JPMC.
+It demonstrates skills in **data engineering, data science, and business intelligence**, aligned with real-world practices.
 
 The platform integrates multiple messy datasets to analyze **workforce demand, productivity trends, and forecasting metrics**, while providing **Tableau dashboards and Python workflows** to monitor KPIs, identify performance gaps, and support strategic decisions.
 
@@ -30,7 +30,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
 - **SQL / Databricks**: Bronze → Silver → Gold pipeline design  
 - **Tableau**: KPI dashboards and visualizations  
-- **GitHub**: Version control and recruiter showcase  
+- **GitHub**: Version control
 
 ---
 
@@ -102,12 +102,6 @@ Code
 
 ---
 
-## Recruiter Alignment
-This project directly supports résumé bullet points:
-- **Built SQL and Databricks datasets** to analyze workforce demand, productivity trends, and forecasting metrics.  
-- **Developed Tableau dashboards and Python workflows** to monitor KPIs, identify performance gaps, and support decisions.  
-
----
 
 ## Example Workflow
 1. **Data Ingestion**  
