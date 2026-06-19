@@ -29,7 +29,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 ## Tech Stack
 - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
 - **SQL / Databricks**: Bronze → Silver → Gold pipeline design  
-- **Tableau / Power BI**: KPI dashboards and visualizations  
+- **Tableau**: KPI dashboards and visualizations  
 - **GitHub**: Version control and recruiter showcase  
 
 ---
