@@ -1,6 +1,6 @@
 # Workforce-Capacity-Planning-Forecasting-Analytics-Platform
 
-## 📌 Project Overview
+## Project Overview
 This project simulates an **enterprise-scale workforce analytics pipeline** using official datasets from the U.S. Bureau of Labor Statistics (BLS).  
 It demonstrates skills in **data engineering, data science, and business intelligence**, aligned with real-world practices at JPMC.
 
@@ -8,7 +8,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Ingest and clean **multi-source datasets** (OEWS, QCEW, LAUS).
 - Build SQL/Databricks-style tables for **workforce demand, productivity trends, and forecasting metrics**.
 - Develop **Python workflows** for KPI monitoring and forecasting.
@@ -16,7 +16,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 
 ---
 
-## 📂 Datasets Used
+## Datasets Used
 1. **Occupational Employment and Wage Statistics (OEWS)** – 2009–2025  
    - Occupation-level employment counts and wage estimates.  
 2. **Quarterly Census of Employment and Wages (QCEW)** – 2020–2022  
@@ -26,7 +26,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
 - **SQL / Databricks**: Bronze → Silver → Gold pipeline design  
 - **Tableau / Power BI**: KPI dashboards and visualizations  
@@ -34,7 +34,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 
 ---
 
-## 📊 Key Features
+## Key Features
 - **Data Cleaning & Validation**  
   - Handle missing values, inconsistent codes, mixed formats.  
   - Standardize occupation codes, NAICS industry codes, and regional identifiers.  
@@ -57,7 +57,7 @@ The platform integrates multiple messy datasets to analyze **workforce demand, p
 
 ---
 
-## 🚀 Project Structure
+## Project Structure
 Workforce-Capacity-Planning/
 │
 ├── data/                     # Raw datasets (large files, ignored in GitHub)
@@ -94,7 +94,7 @@ Code
 
 ---
 
-## 📈 Sample KPIs
+## Sample KPIs
 - Workforce demand growth rate  
 - Average wage by occupation/industry  
 - Labor force participation trends  
@@ -102,14 +102,14 @@ Code
 
 ---
 
-## 🧑‍💼 Recruiter Alignment
+## Recruiter Alignment
 This project directly supports résumé bullet points:
 - **Built SQL and Databricks datasets** to analyze workforce demand, productivity trends, and forecasting metrics.  
 - **Developed Tableau dashboards and Python workflows** to monitor KPIs, identify performance gaps, and support decisions.  
 
 ---
 
-## 📊 Example Workflow
+## Example Workflow
 1. **Data Ingestion**  
    - Load OEWS, QCEW, and LAUS datasets into Pandas/Databricks.  
 
@@ -132,7 +132,7 @@ This project directly supports résumé bullet points:
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 - Expand forecasting models (ARIMA, Prophet, LSTM).  
 - Add interactive Tableau dashboards.  
 - Integrate with Databricks for scalable pipelines.  
@@ -140,6 +140,6 @@ This project directly supports résumé bullet points:
 
 ---
 
-## 📜 License
+## License
 This project uses public datasets from the U.S. Bureau of Labor Statistics (BLS).  
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
